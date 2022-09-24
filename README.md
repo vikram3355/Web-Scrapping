@@ -5,10 +5,10 @@
 
 Data:
 
-Address
-Bedrooms
-Bathrooms
-Agent Name
-Area code
-Phone number
+Address;
+Bedrooms;
+Bathrooms;
+Agent Name;
+Area code;
+Phone number;
 Price
